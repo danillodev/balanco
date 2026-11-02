@@ -1,0 +1,14 @@
+[
+  {"nome": "Livros de economia e finanças", "loja": "Mercado Livre", "tags": ["juros", "inflacao", "bolsa", "geral"],
+   "url": "https://lista.mercadolivre.com.br/livros-de-economia"},
+  {"nome": "Calculadora financeira", "loja": "Shopee", "tags": ["juros", "inflacao", "dolar"],
+   "url": "https://shopee.com.br/search?keyword=calculadora%20financeira"},
+  {"nome": "Livros de ciência política", "loja": "Mercado Livre", "tags": ["eleicao", "governo"],
+   "url": "https://lista.mercadolivre.com.br/livros-de-ciencia-politica"},
+  {"nome": "Leitor de e-books", "loja": "AliExpress", "tags": ["geral", "eleicao", "governo"],
+   "url": "https://pt.aliexpress.com/wholesale?SearchText=leitor+de+ebook"},
+  {"nome": "Planner financeiro", "loja": "Shopee", "tags": ["inflacao", "juros", "geral"],
+   "url": "https://shopee.com.br/search?keyword=planner%20financeiro"},
+  {"nome": "Conta digital e cartão", "loja": "Mercado Pago", "tags": ["dolar", "bolsa", "juros", "geral"],
+   "url": "https://www.mercadopago.com.br/"}
+]
